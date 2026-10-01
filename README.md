@@ -40,7 +40,7 @@ Each exercise uses NumPy arrays and operators to solve real business, educationa
 
 ## Exercise 1: Sales Performance Calculator
 
-### 📊 Business Analytics
+### Business Analytics
 
 **Scenario:** A retail business tracks daily sales over one week. The goal is to calculate total sales, average daily sales, and simulate a 10% sales increment.
 
@@ -134,7 +134,7 @@ The average daily sales of ₦164,285.71 shows the business needs to hit approxi
 
 Exercise 2: Student Performance Analysis
 
-🎓 Education Analytics
+Education Analytics
 
 Scenario: Analyze test scores for 10 students. Calculate mean score, individual deviations, squared deviations, variance, and standard deviation.
 
@@ -241,7 +241,7 @@ A standard deviation of 10.18 means most student scores fall within ±10.18 poin
 
 Exercise 3: Trigonometric Series and Convergence
 
-📐 Engineering & Scientific Computing
+Engineering & Scientific Computing
 
 Scenario: Investigate whether the infinite series Σ sin(kθ)/k converges as the number of terms increases, using θ = 30°.
 
@@ -325,7 +325,7 @@ Conclusion: The series Σ sin(kθ)/k converges toward approximately 1.309 as mor
 
 Bonus Challenge: Stock Market Volatility Analysis
 
-💹 Finance
+Finance
 
 Scenario: A financial analyst analyzes daily closing prices of a fictional stock over a 7-day trading week to determine average price, total value, daily fluctuations, and volatility.
 
@@ -463,25 +463,23 @@ Key Learning Outcomes
 
 By completing this project, you will be able to:
 
-· ✅ Create and inspect NumPy arrays
-· ✅ Apply arithmetic operations to arrays (element-wise and scalar)
-· ✅ Calculate statistical metrics (sum, mean, variance, standard deviation)
-· ✅ Understand array slicing and broadcasting
-· ✅ Use NumPy's mathematical functions (np.sin, np.sqrt, np.abs, etc.)
-· ✅ Investigate series convergence using vectorized operations
-· ✅ Apply NumPy to real-world business, education, and finance scenarios
+· Create and inspect NumPy arrays
+· Apply arithmetic operations to arrays (element-wise and scalar)
+· Calculate statistical metrics (sum, mean, variance, standard deviation)
+· Understand array slicing and broadcasting
+· Use NumPy's mathematical functions (np.sin, np.sqrt, np.abs, etc.)
+· Investigate series convergence using vectorized operations
+· Apply NumPy to real-world business, education, and finance scenarios
 
 ---
 
 Author
 
 Mustapha Emmanuel Oladeji
-Junior Data Analyst
-Python Study Group – Team H
 
-📧 Email: [your-email@example.com]
-🔗 LinkedIn: [linkedin.com/in/yourprofile]
-🐙 GitHub: [github.com/yourusername]
+📧 Email: [mustaphaemmanuelola@gmail.com]
+🔗 LinkedIn: [linkedin.com/in/mustaphaemmanouelola]
+🐙 GitHub: [github.com/Emmanouhl]
 
 ---
 
@@ -499,42 +497,6 @@ This project is open for educational and portfolio purposes.
 
 Built with NumPy – Powering numerical computing in Python.
 
-🚀 Happy Coding!
+Happy Coding!
 
-```
 
----
-
-## 📌 Repo Setup Info
-
-**Repository Name:**
-```
-
-numpy-operators-assessment
-
-```
-
-**Short Description:**
-```
-
-Hands-on NumPy practice covering array creation, mathematical operators, statistical analysis, trigonometric series, and stock volatility analysis.
-
-```
-
-**Topics (Tags):**
-```
-
-python, numpy, data-analysis, arrays, statistics, business-analytics, education-analytics, scientific-computing, jupyter-notebook, study-group
-
-```
-
----
-
-**Done!** Copy the whole block above, paste into `README.md` on GitHub, and commit. ✅
-
-Remember to replace:
-- `[your-email@example.com]`
-- `[linkedin.com/in/yourprofile]`
-- `[github.com/yourusername]`
-
-with your real details before pushing. 🚀
