@@ -1,5 +1,3 @@
-# numpy-operators-assessment
-Hands-on NumPy practice covering array creation, mathematical operators, statistical analysis, trigonometric series, and stock volatility analysis.
 # NumPy Operators – Hands-On Practice
 
 A comprehensive NumPy practice project covering array creation, mathematical operations, statistical analysis, and scientific computing. This project applies NumPy to real-world scenarios in **business analytics**, **education analytics**, and **engineering & scientific computing**.
