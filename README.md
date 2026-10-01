@@ -391,6 +391,20 @@ Volatility (Std Dev): $1.98
 
 ---
 
+## Sample Output
+
+<img width="1211" height="638" alt="num" src="https://github.com/user-attachments/assets/ea59a243-d469-4365-a244-8684f308104c" />
+
+<img width="1128" height="554" alt="num1" src="https://github.com/user-attachments/assets/611bcac6-2a73-4a8f-b960-cfa1b3547be2" />
+
+<img width="1131" height="574" alt="num2" src="https://github.com/user-attachments/assets/79072737-bd37-4611-b295-1f6d8aea88d1" />
+
+<img width="1095" height="556" alt="num3" src="https://github.com/user-attachments/assets/33d1c745-2ac9-4b62-a0ad-38c0a3ef9b2e" />
+
+<img width="1130" height="550" alt="num4" src="https://github.com/user-attachments/assets/e1c77f33-3c62-427e-90c0-f67f209b590b" />
+
+<img width="1119" height="564" alt="num5" src="https://github.com/user-attachments/assets/3f9f10f1-bf16-49ec-a02b-63369cf46d46" />
+
 ## NumPy Concepts Covered
 
 Concept Functions / Operators Used
