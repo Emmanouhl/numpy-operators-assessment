@@ -7,15 +7,15 @@ A comprehensive NumPy practice project covering array creation, mathematical ope
 ## Table of Contents
 
 - Project Overview
-- [Exercise 1: Sales Performance Calculator](#exercise-1-sales-performance-calculator)
-- [Exercise 2: Student Performance Analysis](#exercise-2-student-performance-analysis)
-- [Exercise 3: Trigonometric Series and Convergence](#exercise-3-trigonometric-series-and-convergence)
-- [Bonus Challenge: Stock Market Volatility Analysis](#bonus-challenge-stock-market-volatility-analysis)
-- [NumPy Concepts Covered](#numpy-concepts-covered)
-- [Project Structure](#project-structure)
-- [System Requirements](#system-requirements)
-- [Installation & Setup](#installation--setup)
-- [Author](#author)
+- Exercise 1: Sales Performance Calculator
+- Exercise 2: Student Performance Analysis
+- Exercise 3: Trigonometric Series and Convergence
+- Bonus Challenge: Stock Market Volatility Analysis
+- NumPy Concepts Covered
+- Project Structure
+- System Requirements
+- Installation & Setup
+- Author
 
 ---
 
@@ -130,11 +130,11 @@ The average daily sales of ₦164,285.71 shows the business needs to hit approxi
 
 ---
 
-Exercise 2: Student Performance Analysis
+## Exercise 2: Student Performance Analysis
 
-Education Analytics
+## Education Analytics
 
-Scenario: Analyze test scores for 10 students. Calculate mean score, individual deviations, squared deviations, variance, and standard deviation.
+**Scenario:** Analyze test scores for 10 students. Calculate mean score, individual deviations, squared deviations, variance, and standard deviation.
 
 1. Create and Inspect Data
 
@@ -231,17 +231,17 @@ Variance: 103.61
 Standard Deviation: 10.18
 ```
 
-Interpretation:
+**Interpretation:**
 
 A standard deviation of 10.18 means most student scores fall within ±10.18 points of the mean (79.5). This suggests moderate spread — the class has a mix of high performers and students needing support.
 
 ---
 
-Exercise 3: Trigonometric Series and Convergence
+## Exercise 3: Trigonometric Series and Convergence
 
-Engineering & Scientific Computing
+## Engineering & Scientific Computing
 
-Scenario: Investigate whether the infinite series Σ sin(kθ)/k converges as the number of terms increases, using θ = 30°.
+**Scenario:** Investigate whether the infinite series Σ sin(kθ)/k converges as the number of terms increases, using θ = 30°.
 
 1. Define Angle
 
@@ -317,15 +317,15 @@ Observations from this experiment:
 3. Larger term numbers produce smaller contributions (each term is divided by a larger denominator)
 4. When the sum settles near a limit, the series is said to converge
 
-Conclusion: The series Σ sin(kθ)/k converges toward approximately 1.309 as more terms are added.
+**Conclusion:** The series Σ sin(kθ)/k converges toward approximately 1.309 as more terms are added.
 
 ---
 
-Bonus Challenge: Stock Market Volatility Analysis
+## Bonus Challenge: Stock Market Volatility Analysis
 
-Finance
+## Finance
 
-Scenario: A financial analyst analyzes daily closing prices of a fictional stock over a 7-day trading week to determine average price, total value, daily fluctuations, and volatility.
+**Scenario:** A financial analyst analyzes daily closing prices of a fictional stock over a 7-day trading week to determine average price, total value, daily fluctuations, and volatility.
 
 1. Create the Dataset
 
@@ -391,7 +391,7 @@ Volatility (Std Dev): $1.98
 
 ---
 
-NumPy Concepts Covered
+## NumPy Concepts Covered
 
 Concept Functions / Operators Used
 Array Creation np.array(), np.arange()
@@ -408,7 +408,7 @@ Slicing array[1:], array[:-1]
 
 ---
 
-Project Structure
+## Project Structure
 
 ```
 numpy-operators-assessment/
@@ -417,57 +417,6 @@ numpy-operators-assessment/
 ├── README.md                              # Project documentation
 └── screenshots/                           # (optional) output images
 ```
-
----
-
-System Requirements
-
-Requirement Specification
-Language Python 3.6+
-Library NumPy
-Environment Jupyter Notebook / JupyterLab
-Platform Windows, macOS, or Linux
-
----
-
-Installation & Setup
-
-Step 1: Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/numpy-operators-assessment.git
-cd numpy-operators-assessment
-```
-
-Step 2: Install NumPy
-
-```bash
-pip install numpy
-```
-
-Step 3: Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-Step 4: Open and Run
-
-Open ASSESSMENT_15_NUMPY_OPERATORS.ipynb and run all cells.
-
----
-
-Key Learning Outcomes
-
-By completing this project, you will be able to:
-
-· Create and inspect NumPy arrays
-· Apply arithmetic operations to arrays (element-wise and scalar)
-· Calculate statistical metrics (sum, mean, variance, standard deviation)
-· Understand array slicing and broadcasting
-· Use NumPy's mathematical functions (np.sin, np.sqrt, np.abs, etc.)
-· Investigate series convergence using vectorized operations
-· Apply NumPy to real-world business, education, and finance scenarios
 
 ---
 
