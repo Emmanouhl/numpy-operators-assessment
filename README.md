@@ -57,3 +57,36 @@ Daily Sales: {daily_sales}
 Type: {daily_sales.dtype}
 Shape: {daily_sales.shape}
 """)
+
+total_sales = np.sum(daily_sales)
+print(f"Total Sales: ₦{total_sales}")
+
+average_sales = np.mean(daily_sales)
+print(f"Average Sales: ₦{(average_sales):.2f}")
+
+# Broadcasting: multiply every element by 0.1
+sales_increment = daily_sales * 0.1
+
+# Element-wise addition
+adjusted_sales = daily_sales + sales_increment
+
+print(f"Adjusted Sales: {adjusted_sales}")
+
+Adjusted Sales: [137500. 165000. 192500. 154000. 209000. 231000. 176000.]
+
+sales_difference = adjusted_sales - daily_sales
+print(f"Difference in Sales: {sales_difference}")
+
+Difference in Sales: [12500. 15000. 17500. 14000. 19000. 21000. 16000.]
+
+average_sales = np.mean(daily_sales)
+total_sales = np.sum(daily_sales)
+
+print(f"Average Sales: ₦{average_sales:.2f}")
+print(f"Total Sales: ₦{total_sales}")
+
+average_sales = np.mean(daily_sales)
+total_sales = np.sum(daily_sales)
+
+print(f"Average Sales: ₦{average_sales:.2f}")
+print(f"Total Sales: ₦{total_sales}")
