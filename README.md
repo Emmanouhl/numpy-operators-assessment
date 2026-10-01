@@ -6,7 +6,7 @@ A comprehensive NumPy practice project covering array creation, mathematical ope
 
 ## Table of Contents
 
-- #[Project Overview]
+- Project Overview
 - [Exercise 1: Sales Performance Calculator](#exercise-1-sales-performance-calculator)
 - [Exercise 2: Student Performance Analysis](#exercise-2-student-performance-analysis)
 - [Exercise 3: Trigonometric Series and Convergence](#exercise-3-trigonometric-series-and-convergence)
